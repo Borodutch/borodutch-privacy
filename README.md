@@ -1,2 +1,2 @@
 # borodutch-privacy
-Common privacy policy for some services listed at borodutch.com
+Common privacy policy for some services listed at [borodutch.com](https://borodutch.com).
