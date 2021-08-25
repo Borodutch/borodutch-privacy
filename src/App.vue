@@ -32,6 +32,11 @@ v-app
         p Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
         h3 Changes to This Privacy Policy
         p We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+        h3 Requesting Deletion of Your Information
+        p 
+          | {{ "If you would like to delete your information from our Service, you may do so by contacting us at " }}
+          a(href='mailto:accounts@borodutch.com') accounts@borodutch.com
+          | .
         h3 Contact Us
         p
           | {{ "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at " }}
